@@ -1,0 +1,198 @@
+.a1{
+    transform:translateX(30px) translateY(10px) ;
+    text-align: center;
+}
+
+
+.back-box{
+    width: 270px;
+    height: 270px;
+    background: radial-gradient(
+    circle at right,
+    rgb(82, 0, 130),
+    rgb(196, 168, 220),
+    rgb(255, 236, 255),
+    rgb(255, 255, 255)
+    );
+    border-radius: 50%;
+    transform: translateY(700px) translateX(1480px) ;
+}
+
+.cover{
+    width: 55px;
+    height: 370px;
+    background: rgb(255, 255, 255);
+    transform: translateY(350px) translateX(1700px) ;
+
+}
+
+
+ .continer1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap:0px;
+    flex-direction: row-reverse;
+ }
+
+.h41{
+    color: black;
+}
+    
+.h4{
+    color:gray;
+    transform: translateY(-10px);
+}
+ 
+.img-1{
+    width: 40px;
+    height: 40px;
+    background:aqua;
+    border-radius: 50%;
+transform: translateY(70px) translateX(-50px) ;
+}
+
+
+.p{
+    color:grey;
+}
+
+
+.lor{
+    color:cornflowerblue ;
+}
+
+.text{
+    transform: translateX(200px);
+}
+
+
+
+
+.continer2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap:0px;
+    flex-direction: row-reverse;
+ }
+
+
+
+ 
+.continer3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap:0px;
+    flex-direction: row-reverse;
+    transform: translateY(-300px);
+ }
+
+
+
+ .text-2{
+    transform: translateX(-100px);
+ }
+
+
+ .img1--2{
+    transform: translateX(100px);
+ }
+ 
+
+
+ 
+ .text-3{
+transform: translateX(200px);
+ }
+
+
+ .img1--3{
+        transform: translateX(-100px);
+ }
+ 
+
+
+ .img-2{
+    width: 40px;
+    height: 40px;
+    background:cornflowerblue;
+    border-radius: 50%;
+transform: translateY(70px) translateX(-50px) ;
+ }
+
+
+ 
+ .img-3{
+    width: 40px;
+    height: 40px;
+    background:darkorchid;
+    border-radius: 50%;
+transform: translateY(70px) translateX(-50px) ;
+ }
+
+ .h4-2{
+    color: grey;
+ }
+
+
+ .p-2{
+    color: grey;
+ }
+
+
+ 
+.p-3{
+    color:grey;
+}
+
+
+
+.h4-3{
+    color: grey;
+ }
+
+
+
+
+ 
+.lor-2{
+    color:cornflowerblue ;
+}
+
+
+
+
+.lor-3{
+    color:cornflowerblue ;
+}
+
+
+.c{
+    transform: translateY(-600px);
+}
+
+
+.back-box2{
+    width: 270px;
+    height: 270px;
+    background: radial-gradient(
+    circle at right,
+    rgb(187, 255, 0),
+    rgb(231, 255, 175),
+    rgb(250, 255, 215),
+    rgb(255, 255, 255)
+    );
+    border-radius: 50%;
+    transform: translateY(100px) translateX(100px) ;
+}
+
+
+.img1--2{
+    transform: translateY(-300px) translateX(100px) ;
+}
+
+.text-2{
+    transform: translateY(-300px) translateX(-100px) ;
+}
